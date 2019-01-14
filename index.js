@@ -11,7 +11,12 @@ module.exports = {
     es6: true,
     jest: true,
   },
-  plugins: ['react', 'jest', 'drop', 'typescript'],
+  plugins: [
+    'react',
+    'jest',
+    '@drop-engineering/eslint-plugin-drop',
+    'typescript',
+  ],
   parser: 'babel-eslint',
   globals: {
     find: true,
