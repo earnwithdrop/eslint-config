@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-drop",
+  "name": "@drop-engineering/eslint-config",
   "version": "1.0.0",
   "peerDependencies": {
     "babel-eslint": ">=8.2.3",
