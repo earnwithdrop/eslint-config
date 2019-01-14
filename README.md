@@ -16,6 +16,6 @@
 3. Create `.eslintrc.js` file with the following contents:
    ```javascript
    module.exports = {
-     extends: ['drop'],
+     extends: ['@drop-engineering'],
    };
    ```
