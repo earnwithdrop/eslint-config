@@ -11,7 +11,7 @@
 2. Install package
 
    ```bash
-   npm i -D eslint-config-drop
+   npm i -D @drop-engineering/eslint-config
 
    ```
 
