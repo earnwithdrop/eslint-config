@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/%40drop-engineering%2Feslint-config.svg)](https://badge.fury.io/js/%40drop-engineering%2Feslint-config)
+
 # Drop Javascript / Typescript style guide
 
 ## Usage
