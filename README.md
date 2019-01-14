@@ -4,8 +4,7 @@
 
 1. Install all peerDependencies
    ```bash
-   # This command won't work until this module is published on npm
-   npx install-peerdeps --dev "eslint-config-drop"
+   npx install-peerdeps --dev "@drop-engineering/eslint-config"
    ```
 2. Install package
 
