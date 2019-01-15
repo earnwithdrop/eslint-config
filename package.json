@@ -1,6 +1,10 @@
 {
   "name": "@drop-engineering/eslint-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/earnwithdrop/eslint-plugin-drop.git"
+  },
   "peerDependencies": {
     "@drop-engineering/eslint-plugin-drop": "git+https://github.com/earnwithdrop/eslint-plugin-drop.git",
     "babel-eslint": ">=8.2.3",
