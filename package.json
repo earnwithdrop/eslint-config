@@ -1,6 +1,6 @@
 {
   "name": "@drop-engineering/eslint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "peerDependencies": {
     "@drop-engineering/eslint-plugin-drop": "git+https://github.com/earnwithdrop/eslint-plugin-drop.git",
     "babel-eslint": ">=8.2.3",
@@ -16,5 +16,10 @@
     "eslint": ">=4.19.1",
     "prettier-eslint-cli": ">=4.7.1",
     "typescript-eslint-parser": ">= 18.0.0"
-  }
+  },
+  "keywords": [
+    "lint",
+    "eslint",
+    "lint configuration"
+  ]
 }
