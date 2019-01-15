@@ -3,7 +3,7 @@
   "version": "1.0.3",
   "repository": {
     "type": "git",
-    "url": "https://github.com/earnwithdrop/eslint-plugin-drop.git"
+    "url": "https://github.com/earnwithdrop/eslint-config-drop.git"
   },
   "peerDependencies": {
     "@drop-engineering/eslint-plugin-drop": "git+https://github.com/earnwithdrop/eslint-plugin-drop.git",
