@@ -17,7 +17,7 @@ module.exports = {
     '@drop-engineering/eslint-plugin-drop',
     'typescript',
   ],
-  parser: 'babel-eslint',
+  parser: '@typescript-eslint/parser',
   globals: {
     find: true,
     render: true,
@@ -179,7 +179,7 @@ module.exports = {
     },
     {
       files: ['**/*.ts', '**/*.tsx'],
-      parser: 'typescript-eslint-parser',
+      parser: '@typescript-eslint/parser',
       rules: {
         'no-undef': 'off',
         'typescript/no-unused-vars': 'error',
