@@ -34,7 +34,7 @@ module.exports = {
           '~': '../src',
           assets: '../assets',
           tests: '../__tests__',
-          storybooks: '../storybook',
+          storybook: '../storybook',
         },
         extensions: ['.js', '.jsx', '.json', '.ts', '.tsx'],
       },
@@ -186,4 +186,4 @@ module.exports = {
       },
     },
   ],
-};
+}
