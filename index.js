@@ -35,6 +35,7 @@ module.exports = {
           assets: '../assets',
           tests: '../__tests__',
           storybook: '../storybook',
+          storybooks: '../storybook',
         },
         extensions: ['.js', '.jsx', '.json', '.ts', '.tsx'],
       },
