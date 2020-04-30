@@ -81,6 +81,7 @@ module.exports = {
     'jsx-quotes': [2, 'prefer-double'],
     '@drop-engineering/drop/selector-naming-convention': 2,
     '@drop-engineering/drop/explicit-boolean-in-jsx-conditionals': 2,
+    '@drop-engineering/drop/jest-return-expect-saga': 2,
     'react/jsx-uses-react': 2,
     'react/jsx-uses-vars': 2,
     'react/jsx-curly-spacing': [2, 'never'],
