@@ -28,6 +28,9 @@ module.exports = {
     getStore: true,
     getStoreWithEntities: true,
     getCurrentRoute: true,
+    ReduxState: 'readonly',
+    React: 'readonly',
+    this: 'readonly',
   },
   settings: {
     'import/resolver': {
@@ -90,6 +93,7 @@ module.exports = {
     'react/jsx-curly-spacing': [2, 'never'],
     'react/jsx-indent': [2, 2],
     'react/jsx-no-undef': 2,
+    'no-undef': 2,
     'react/jsx-closing-bracket-location': [
       2,
       { selfClosing: 'tag-aligned', nonEmpty: 'tag-aligned' },
